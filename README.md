@@ -1,5 +1,6 @@
 # Blender_Text_Writing
 Blender Addon for Simple text writing simulator with Geometry Nodes
+You can get it from Gumroad page: [Blender Text Writing Addon](https://mhstar.gumroad.com/l/buphq)
 
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
