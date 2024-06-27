@@ -19,4 +19,4 @@ Don't change the modifier name.
 
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
-[![text writing tutorial]](https://youtu.be/I4akOFqOvq8)
+[![text writing tutorial](https://img.youtube.com/vi/I4akOFqOvq8/default.jpg)](https://youtu.be/I4akOFqOvq8)
